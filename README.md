@@ -5,6 +5,8 @@ In probability theory, the multi-armed bandit problem (sometimes called the K-[1
 
 ## Code
 
+https://nbviewer.jupyter.org/github/marlesson/MaB-Experiments/blob/master/Multi-armed-Bandits.ipynb
+
 Multi-armed-Bandits.ipynb
 
 ## Results
