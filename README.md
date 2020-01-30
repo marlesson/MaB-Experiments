@@ -11,9 +11,9 @@ Multi-armed-Bandits.ipynb
 
 ## Results
 
-![result](all_prob.png)
+![result](images/all_prob.png)
 
-![result](all_table.png)
+![result](images/all_table.png)
 
 ## Author
 
